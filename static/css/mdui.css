@@ -14,7 +14,7 @@
  */
 .mdui-theme-primary-amber .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ffc107 !important;
+  background-color: #3f51b5 !important;
 }
 .mdui-theme-primary-amber .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -762,7 +762,7 @@
 }
 .mdui-theme-primary-teal .mdui-color-theme {
   color: #fff !important;
-  background-color: #009688 !important;
+  background-color: #3f51b5 !important;
 }
 .mdui-theme-primary-teal .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
